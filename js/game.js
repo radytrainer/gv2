@@ -63,7 +63,7 @@ var khmerGame = () => {
             output3 = "<img src='images/5.PNG' style='width:100px;'>";
             break;
         case 6:
-            output3 = "<img src='../images/6.PNG' style='width:100px;'>";
+            output3 = "<img src='images/6.PNG' style='width:100px;'>";
             break;
     }
     let result = document.getElementById("result");
